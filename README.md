@@ -1,4 +1,4 @@
-Blackjack AI - Proof of Concept
+# Blackjack AI - Proof of Concept
 
 © 2025 Sal Sicari
 
