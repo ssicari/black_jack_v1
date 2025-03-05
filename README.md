@@ -1,4 +1,6 @@
-# Blackjack AI - Proof of Concept
+# README
+
+## Blackjack AI - Proof of Concept
 
 © 2025 Sal Sicari
 
